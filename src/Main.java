@@ -8,6 +8,7 @@ public class Main {
         frame.setSize(600, 400);
 
         JPanel mainPanel = new JPanel(new CardLayout());
+        //HELLO
 
         UserDatabase userDatabase = new UserDatabase(); // Initialize user database
 
